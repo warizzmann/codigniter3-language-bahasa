@@ -1,4 +1,4 @@
-CodeIgniter Language Pack : Bahasa
+CodeIgniter 3 Language Pack : Bahasa
 ==========
 Dukungan Bahasa Indonesia untuk CodeIgniter Versi : 3.0.0
 
