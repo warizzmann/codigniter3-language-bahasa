@@ -9,6 +9,10 @@ Instalasi:
 3. Ubah pengaturan bahasa pada <strong>'application/config/config.php'</strong> <br>
    <code>$config['language']	= 'bahasa';</code>
 
+Homepage
+========
+<a target="_blank" href="http://warizzmann.github.io/codigniter3-language-bahasa">Codigniter 3 language pack : bahasa indonesia</a>
+
 Jika error berlanjut, hubungi:
 ========
 <strong>Warisman Syam</strong>
