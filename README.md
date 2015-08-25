@@ -1,3 +1,7 @@
+CodeIgniter Language Pack : Bahasa
+==========
+Dukungan Bahasa Indonesia untuk CodeIgniter Versi : 3.0.0
+
 Instalasi:
 ==========
 1. Download <strong><a target="_blank" href="https://github.com/warizzmann/codigniter-language-bahasa/archive/master.zip">disini</a></strong>
